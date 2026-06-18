@@ -6,7 +6,7 @@ model = joblib.load("house_price_model.pkl")
 transform = joblib.load("preprocessor.pkl")
 
 st.title("🏠 House Price Prediction")
-st.subheader("Enter House Details")
+st.caption("Developed by Vipul Gupta | Machine Learning Project")
 
 area = st.number_input("Area", value=5000)
 bedrooms = st.number_input("Bedrooms", value=3)
