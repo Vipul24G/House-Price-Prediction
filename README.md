@@ -43,7 +43,7 @@ Model Evaluation
      ↓
 Gradient Boosting Regressor
      ↓
-Streamlit Web Application
+Streamlit Web Application```
 ## 📊 Model Performance
 
 During development, multiple regression models were evaluated.
