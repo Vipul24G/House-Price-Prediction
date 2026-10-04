@@ -11,7 +11,7 @@ through an interactive Streamlit interface.
 
 ## 🚀 Live Demo
 
-🔗 Coming Soon
+https://house-price-prediction-bhqr76mp3eeugtzddfstku.streamlit.app/
 
 ---
 
