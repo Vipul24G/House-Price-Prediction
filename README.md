@@ -60,3 +60,28 @@ it provided the best overall performance for this dataset.
 
 > Note: Performance may vary depending on preprocessing,
 > train-test split and evaluation settings.
+> ---
+
+## 🛠️ Tech Stack
+
+- **Python** — Programming language
+- **Pandas & NumPy** — Data processing
+- **Scikit-learn** — Machine Learning
+- **Gradient Boosting Regressor** — Final model
+- **Streamlit** — Web application
+- **Joblib** — Model serialization
+
+---## 🖥️ Application Preview
+
+![House Price Prediction App](image.png)
+
+
+---
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Vipul24G/House-Price-Prediction.git
+cd House-Price-Prediction
+
