@@ -100,3 +100,25 @@ pip install -r requirements.txt
 Run Application
 ```
 streamlit run app.py
+```
+
+## 🔮 Future Improvements
+
+- Improve model performance with additional feature engineering
+- Add more data visualizations
+- Add prediction explainability
+- Experiment with advanced ensemble models
+- Improve the user interface
+
+---
+
+## 👨‍💻 Author
+
+**Vipul Gupta**
+
+Final Year B.Tech CSE  
+Interested in AI/ML, Generative AI, RAG and Agentic AI.
+
+---
+
+⭐ If you find this project useful, consider giving it a star!
