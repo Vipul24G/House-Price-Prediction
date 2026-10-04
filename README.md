@@ -80,6 +80,29 @@ it provided the best overall performance for this dataset.
 ## ⚙️ Installation
 
 Clone the repository:
+pip install -r requirements.txt
+streamlit run app.py
+
+### 4️⃣ Finally About section
+
+GitHub repo ke right side **About → ⚙️** me:
+
+**Description:**
+> End-to-end house price prediction web app using Machine Learning, Gradient Boosting and Streamlit.
+
+**Topics:**
+`machine-learning`  
+`python`  
+`scikit-learn`  
+`regression`  
+`gradient-boosting`  
+`streamlit`  
+`data-science`  
+`house-price-prediction`
+
+---
+
+**Abhi बस ये complete karo.** House Price repo ko 100% polish karne ke baad hum **next `sentiment-analysis` repo** ko isi professional style me banayenge. 🚀
 
 ```bash
 git clone https://github.com/Vipul24G/House-Price-Prediction.git
