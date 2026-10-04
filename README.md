@@ -44,3 +44,59 @@ Model Evaluation
 Gradient Boosting Regressor
      ↓
 Streamlit Web Application
+```
+---
+
+## 📊 Model Performance
+
+During development, multiple regression models were evaluated.
+The final application uses a Gradient Boosting Regressor because
+it provided the best overall performance for this dataset.
+
+| Model | R² Score |
+|-------|----------|
+| Linear Regression | ~0.54 |
+| Gradient Boosting Regressor | ~0.68 |
+| XGBoost | ~0.64 |
+
+> **Note:** Performance may vary depending on preprocessing,
+> train-test split and evaluation settings.
+
+---
+---
+
+## 🛠️ Tech Stack
+
+- **Python** — Programming language
+- **Pandas & NumPy** — Data processing
+- **Scikit-learn** — Machine Learning
+- **Gradient Boosting Regressor** — Final model
+- **Streamlit** — Web application
+- **Joblib** — Model serialization
+
+---
+
+---
+
+## 🖥️ Application Preview
+
+![House Price Prediction App](image.png)
+
+---
+
+---
+
+## ⚙️ Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Vipul24G/House-Price-Prediction.git
+```
+Install Dependencies
+```
+pip install -r requirements.txt
+```
+Run Application
+```
+streamlit run app.py
